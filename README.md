@@ -1,4 +1,4 @@
-# Filecoin Docs
+# Ravencoin docs
 
 **View conceptual documenation for the Filecoin project at [docs.filecoin.io](https://docs.filecoin.io/).** You may also be interested in Filecoin's [technical specifcation](https://filecoin-project.github.io/specs/) or the implementation details provided in the [lotus tutorial](https://lotu.sh).
 
